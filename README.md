@@ -26,7 +26,7 @@ Copy the bot token from your Debug Arena or the Competition Arena.
 Open a terminal and set your bot token as an environment variable:
 
 ```shell
-$ export TOKEN='YOUR TOKEN'
+$ export BOT_TOKEN='YOUR TOKEN'
 ```
 
 Then Go to this directory and call
