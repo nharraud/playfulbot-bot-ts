@@ -4,6 +4,15 @@ playfulbot-bot-ts
 Bot scaffold for typescript language.
 It connects to a Playfulbot server and plays games.
 
+Initializing your environment
+-----------------------------
+
+Make sure you have NodeJS installed, then install dependencies.
+```shell
+$ cd playfulbot-bot-ts
+$ npm install
+```
+
 Coding the bot
 --------------
 
